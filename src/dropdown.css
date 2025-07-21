@@ -1,0 +1,12 @@
+.dropdown {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.dropdown-item {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
